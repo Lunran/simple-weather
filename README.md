@@ -2,7 +2,7 @@
 
 This is a sample maven project in "Maven by Example", improved to adopt the new Yahoo Weather API.
 
-** How to use
+## How to use
 
     $ git clone https://github.com/Lunran/simple-weather.git
     $ cd simple-weather
@@ -10,20 +10,20 @@ This is a sample maven project in "Maven by Example", improved to adopt the new 
     $ mvn exec:java -Dexec.mainClass=org.sonatype.mavenbook.custom.weather.Main
     $ mvn exec:java -Dexec.mainClass=org.sonatype.mavenbook.custom.weather.Main -Dexec.args="Tokyo"
 
-** Improvement
+## Improvement
 
 1. added jaxen to pom.xml
 2. changed query URI
 3. fixed parser to deal with the new xml format
 
-** Original
+## Original
 
 - http://books.sonatype.com/mvnex-book/reference/public-book.html
     - http://books.sonatype.com/mvnex-book/reference/customizing-sect-simple-weather.html
 - https://github.com/sonatype/maven-example-en
     - https://github.com/sonatype/maven-example-en/tree/master/examples/ch-custom/simple-weather
 
-** Yahoo Weather API
+## Yahoo Weather API
 
 - https://developer.yahoo.com/weather/
 - Example of query URI and response
