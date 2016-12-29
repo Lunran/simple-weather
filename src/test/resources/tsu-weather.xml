@@ -1,0 +1,58 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2016-12-29T16:12:02Z" yahoo:lang="ja">
+  <results>
+    <channel>
+      <yweather:units xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" distance="mi" pressure="in" speed="mph" temperature="F"/>
+      <title>Yahoo! Weather - Tsu-shi, Mie Prefecture, JP</title>
+      <link>
+        http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1118417/
+      </link>
+      <description>Yahoo! Weather for Tsu-shi, Mie Prefecture, JP</description>
+      <language>en-us</language>
+      <lastBuildDate>Fri, 30 Dec 2016 01:12 AM JST</lastBuildDate>
+      <ttl>60</ttl>
+      <yweather:location xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" city="Tsu-shi" country="Japan" region=" Mie Prefecture"/>
+      <yweather:wind xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" chill="32" direction="293" speed="18"/>
+      <yweather:atmosphere xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" humidity="75" pressure="1022.0" rising="0" visibility="16.1"/>
+      <yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="7:1 am" sunset="4:53 pm"/>
+      <image>
+        <title>Yahoo! Weather</title>
+        <width>142</width>
+        <height>18</height>
+        <link>http://weather.yahoo.com</link>
+        <url>
+          http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif
+        </url>
+      </image>
+      <item>
+        <title>
+          Conditions for Tsu-shi, Mie Prefecture, JP at 12:00 AM JST
+        </title>
+        <geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">34.645939</geo:lat>
+        <geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">136.365067</geo:long>
+        <link>
+          http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1118417/
+        </link>
+        <pubDate>Fri, 30 Dec 2016 12:00 AM JST</pubDate>
+        <yweather:condition xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="33" date="Fri, 30 Dec 2016 12:00 AM JST" temp="40" text="Mostly Clear"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="30 Dec 2016" day="Fri" high="46" low="35" text="Mostly Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="31 Dec 2016" day="Sat" high="52" low="35" text="Mostly Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="32" date="01 Jan 2017" day="Sun" high="55" low="38" text="Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="02 Jan 2017" day="Mon" high="55" low="39" text="Partly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="03 Jan 2017" day="Tue" high="55" low="44" text="Mostly Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="32" date="04 Jan 2017" day="Wed" high="48" low="41" text="Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="05 Jan 2017" day="Thu" high="49" low="38" text="Mostly Cloudy"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="06 Jan 2017" day="Fri" high="51" low="38" text="Mostly Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="34" date="07 Jan 2017" day="Sat" high="49" low="40" text="Mostly Sunny"/>
+        <yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="08 Jan 2017" day="Sun" high="51" low="44" text="Mostly Cloudy"/>
+        <description>
+          <![CDATA[<img src="http://l.yimg.com/a/i/us/we/52/33.gif"/> <BR /> <b>Current Conditions:</b> <BR />Mostly Clear <BR /> <BR /> <b>Forecast:</b> <BR /> Fri - Mostly Sunny. High: 46Low: 35 <BR /> Sat - Mostly Sunny. High: 52Low: 35 <BR /> Sun - Sunny. High: 55Low: 38 <BR /> Mon - Partly Cloudy. High: 55Low: 39 <BR /> Tue - Mostly Sunny. High: 55Low: 44 <BR /> <BR /> <a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-1118417/">Full Forecast at Yahoo! Weather</a> <BR /> <BR /> (provided by <a href="http://www.weather.com" >The Weather Channel</a>) <BR /> ]]>
+        </description>
+        <guid isPermaLink="false"/>
+      </item>
+    </channel>
+  </results>
+</query>
+<!--  total: 23  -->
+<!--
+    prod_sg3_1;paas.yql;queryyahooapiscomproductionsg3;8954c4a5-cdd9-11e6-aa4f-9cb6548278d0
+-->
